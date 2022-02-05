@@ -32,15 +32,84 @@ Although more class time will be spent on speaking rather than reading and writi
 Evaluation
 ----------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Daily Grade (Core Conversations Performance and Drills) | 25% \* |
-| Lesson Quizzes (5) | 25% \*\* |
-| Oral Interviews (2) | 15% |
-| Vocabulary Quizzes (10) | 10% \*\*\* |
-| Kanji Quizzes (10) | 10% \*\*\* |
-| Writing Assignments (5) | 10% |
-| Class Participation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily Grade (Core Conversations Performance and Drills)
+{{< tdclose >}}
+{{< tdopen >}}
+25% \*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lesson Quizzes (5)
+{{< tdclose >}}
+{{< tdopen >}}
+25% \*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Interviews (2)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vocabulary Quizzes (10)
+{{< tdclose >}}
+{{< tdopen >}}
+10% \*\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Kanji Quizzes (10)
+{{< tdclose >}}
+{{< tdopen >}}
+10% \*\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Writing Assignments (5)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \* The four lowest daily grades will be dropped at the end of the term.  
 \*\* The one lowest score will be dropped at the end of the term.  
